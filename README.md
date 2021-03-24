@@ -19,8 +19,8 @@ plugins {
 ## Images
 
 ![Image - demo](demo-1.mp4)
-
-![Image - Demo](demo-2.png)
+ 
+![Image - Demo](demo-2.gif)
 
 ## Author
 * **Daniela Ramirez Gomez** - [danyramirezg](https://github.com/danyramirezg)
