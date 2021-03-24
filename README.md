@@ -16,7 +16,7 @@ plugins {
 ```
 ---
 
-## Images
+## Demo
 
 ![Image - Demo](demo-2.gif)
 
